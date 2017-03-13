@@ -1,0 +1,9 @@
+#Tue Mar 07 11:59:17 CST 2017
+eclipse.preferences.version=1
+encoding//src/com/clothes/action/ClothesAction.java=UTF-8
+encoding//src/com/clothes/action/CustomerAction.java=UTF-8
+encoding//src/com/clothes/action/OrderAction.java=UTF-8
+encoding//src/com/clothes/dao/ClothesDao.java=UTF-8
+encoding//src/com/clothes/dao/CustomerDao.java=UTF-8
+encoding//src/com/clothes/dao/OrderDao.java=UTF-8
+encoding//src/com/clothes/util/LoginInterceptors.java=UTF-8
